@@ -1,2 +1,2 @@
 # potential-rotary-phone
-Brute force
+Hello 
